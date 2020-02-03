@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1575984770 source:d:\fax-vjezbe\2019-2020\analiza i sinteza algoritama\graf\tezinskigraf\tezinskigraf.cpp
+	"tezinskigraf.h"
+	<climits>
+	<set>
+	<algorithm>
+
+1576149120 d:\fax-vjezbe\2019-2020\analiza i sinteza algoritama\graf\tezinskigraf\tezinskigraf.h
+	<list>
+	<vector>
+	<utility>
+
+1576153220 source:d:\fax-vjezbe\2019-2020\analiza i sinteza algoritama\graf\tezinskigraf\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	"tezinskigraf.h"
+
+1577567646 source:c:\users\daeneryspc\desktop\projekat- irhad fejzic tkn\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<set>
+	"tezinskigraf.h"
+
+1577559911 c:\users\daeneryspc\desktop\projekat- irhad fejzic tkn\tezinskigraf.h
+	<list>
+	<vector>
+	<utility>
+
+1577564360 source:c:\users\daeneryspc\desktop\projekat- irhad fejzic tkn\tezinskigraf.cpp
+	"tezinskigraf.h"
+	<climits>
+	<set>
+	<algorithm>
+	<queue>
+	<iostream>
+	<deque>
+
+1578639889 source:c:\users\daeneryspc\desktop\algoritmi -irhad fejzic tkn\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<set>
+	"tezinskigraf.h"
+	<chrono>
+
+1578600151 c:\users\daeneryspc\desktop\algoritmi -irhad fejzic tkn\tezinskigraf.h
+	<list>
+	<vector>
+	<utility>
+
+1578639854 source:c:\users\daeneryspc\desktop\algoritmi -irhad fejzic tkn\tezinskigraf.cpp
+	"tezinskigraf.h"
+	"hash.h"
+	<climits>
+	<set>
+	<algorithm>
+	<queue>
+	<iostream>
+	<unordered_map>
+
+1578146697 c:\users\daeneryspc\desktop\algoritmi -irhad fejzic tkn\hash.h
+	<string.h>
+
